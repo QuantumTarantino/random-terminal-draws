@@ -25,3 +25,6 @@ You can add new draws on the draws folder. Make a pull request if you want to ad
 - QuantumTarantino
                                                                                        
                                                                                        
+# Sources
+
+- https://www.asciiart.eu/
