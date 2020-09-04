@@ -11,7 +11,7 @@ Tired of your terminal being sad and boring? Now you can fix it by showing a ran
 
 3 - Open your .bashrc file (Tipically on your home folder).
 
-4 - At the end of your .bashrc file add the route to the script (randomDraws.sh) and save changes.
+4 - At the end of your .bashrc file add the absolute path route to the script (randomDraws.sh) and save changes.
 
 5 - Open a new terminal and get fun :).
 
