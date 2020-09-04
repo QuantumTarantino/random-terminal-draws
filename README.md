@@ -20,11 +20,8 @@ Tired of your terminal being sad and boring? Now you can fix it by showing a ran
 You can add new draws on the draws folder. Make a pull request if you want to add your draw to this repo.
 
 
- _____                   _                 _____                     _   _             
-|  _  |                 | |               |_   _|                   | | (_)            
-| | | |_   _  __ _ _ __ | |_ _   _ _ __ ___ | | __ _ _ __ __ _ _ __ | |_ _ _ __   ___  
-| | | | | | |/ _` | '_ \| __| | | | '_ ` _ \| |/ _` | '__/ _` | '_ \| __| | '_ \ / _ \ 
-\ \/' / |_| | (_| | | | | |_| |_| | | | | | | | (_| | | | (_| | | | | |_| | | | | (_) |
- \_/\_\\__,_|\__,_|_| |_|\__|\__,_|_| |_| |_\_/\__,_|_|  \__,_|_| |_|\__|_|_| |_|\___/ 
+# Contributors
+
+- QuantumTarantino
                                                                                        
                                                                                        
