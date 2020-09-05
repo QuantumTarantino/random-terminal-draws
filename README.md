@@ -3,6 +3,8 @@
 
 Tired of your terminal being sad and boring? Now you can fix it by showing a random drawing every time you open a new terminal.
 
+![alt text](https://github.com/QuantumTarantino/random-terminal-draws/blob/master/images/RTD_example.png)
+
 # How to use it
 
 1 - Download this repo anywhere on your favourite linux distro.
